@@ -17,7 +17,7 @@ Team Leader & Front-End Developer
 - Payment tracking
 - Responsive UI design
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML, CSS, JavaScript
 - PHP
 - MySQL
