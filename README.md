@@ -1,4 +1,4 @@
-# SwimHub – Swimming Class Membership Management System
+# SwimHub – Swimming Class Membership Management System 
 
 SwimHub is a web-based system designed to manage swimming class memberships,
 packages, renewals, payment records, and admin monitoring. The system provides a
